@@ -1,4 +1,4 @@
-# SDV602 Project Milestone Two - Prototype - Callum McFadgen
+# SDV602 Project Milestone Two
 
 Callum McFadgen
 12583654
